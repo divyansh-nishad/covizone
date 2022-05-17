@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/covizone/static/css/main.c3d9a1d6.css",
+    "main.js": "/covizone/static/js/main.5dc8aaeb.js",
+    "index.html": "/covizone/index.html",
+    "main.c3d9a1d6.css.map": "/covizone/static/css/main.c3d9a1d6.css.map",
+    "main.5dc8aaeb.js.map": "/covizone/static/js/main.5dc8aaeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d9a1d6.css",
+    "static/js/main.5dc8aaeb.js"
+  ]
+}
